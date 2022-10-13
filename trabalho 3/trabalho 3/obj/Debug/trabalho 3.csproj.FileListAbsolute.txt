@@ -1,0 +1,8 @@
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\bin\Debug\trabalho 3.dll
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\bin\Debug\trabalho 3.pdb
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\obj\Debug\trabalho 3.csproj.AssemblyReference.cache
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\obj\Debug\trabalho_3.UserControl1.resources
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\obj\Debug\trabalho 3.csproj.GenerateResource.cache
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\obj\Debug\trabalho 3.csproj.CoreCompileInputs.cache
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\obj\Debug\trabalho 3.dll
+D:\home\projetos\trabalho 3\trabalho 3\trabalho 3\obj\Debug\trabalho 3.pdb
